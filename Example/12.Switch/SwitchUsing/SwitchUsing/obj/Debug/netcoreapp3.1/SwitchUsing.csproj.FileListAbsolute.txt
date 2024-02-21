@@ -1,0 +1,14 @@
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\bin\Debug\netcoreapp3.1\SwitchUsing.exe
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\bin\Debug\netcoreapp3.1\SwitchUsing.deps.json
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\bin\Debug\netcoreapp3.1\SwitchUsing.runtimeconfig.json
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\bin\Debug\netcoreapp3.1\SwitchUsing.runtimeconfig.dev.json
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\bin\Debug\netcoreapp3.1\SwitchUsing.dll
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\bin\Debug\netcoreapp3.1\SwitchUsing.pdb
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.AssemblyInfoInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.AssemblyInfo.cs
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.dll
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.pdb
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\12.Switch\SwitchUsing\SwitchUsing\obj\Debug\netcoreapp3.1\SwitchUsing.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\bin\Debug\netcoreapp3.1\UsingWhile.exe
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\bin\Debug\netcoreapp3.1\UsingWhile.deps.json
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\bin\Debug\netcoreapp3.1\UsingWhile.runtimeconfig.json
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\bin\Debug\netcoreapp3.1\UsingWhile.runtimeconfig.dev.json
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\bin\Debug\netcoreapp3.1\UsingWhile.dll
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\bin\Debug\netcoreapp3.1\UsingWhile.pdb
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.AssemblyInfoInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.AssemblyInfo.cs
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.dll
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.pdb
+C:\Users\cihan\OneDrive\Masaüstü\GİTHUB İÇİN\C#\Example\13.While\UsingWhile\UsingWhile\obj\Debug\netcoreapp3.1\UsingWhile.genruntimeconfig.cache

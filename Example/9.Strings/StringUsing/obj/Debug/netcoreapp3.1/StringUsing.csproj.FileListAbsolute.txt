@@ -1,0 +1,14 @@
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\bin\Debug\netcoreapp3.1\StringUsing.exe
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\bin\Debug\netcoreapp3.1\StringUsing.deps.json
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\bin\Debug\netcoreapp3.1\StringUsing.runtimeconfig.json
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\bin\Debug\netcoreapp3.1\StringUsing.runtimeconfig.dev.json
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\bin\Debug\netcoreapp3.1\StringUsing.dll
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\bin\Debug\netcoreapp3.1\StringUsing.pdb
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.AssemblyInfoInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.AssemblyInfo.cs
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.dll
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.pdb
+C:\Users\cihan\OneDrive\Masaüstü\StringUsing\StringUsing\obj\Debug\netcoreapp3.1\StringUsing.genruntimeconfig.cache
